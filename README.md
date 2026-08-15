@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Imran135ahmad/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Imran135ahmad/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Imran135ahmad/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
