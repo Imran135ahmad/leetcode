@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Imran135ahmad/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Imran135ahmad/leetcode/tree/master/0520-detect-capital) |
 ## Simulation
 |  |
 | ------- |
