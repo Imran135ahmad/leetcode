@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Imran135ahmad/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Imran135ahmad/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Imran135ahmad/leetcode/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Imran135ahmad/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Imran135ahmad/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Imran135ahmad/leetcode/tree/master/0977-squares-of-a-sorted-array) |
