@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Imran135ahmad/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Imran135ahmad/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/Imran135ahmad/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Imran135ahmad/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/Imran135ahmad/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Imran135ahmad/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Imran135ahmad/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Imran135ahmad/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Imran135ahmad/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
