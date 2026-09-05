@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Imran135ahmad/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Imran135ahmad/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Imran135ahmad/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Imran135ahmad/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Imran135ahmad/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Imran135ahmad/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Imran135ahmad/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Imran135ahmad/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Imran135ahmad/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Imran135ahmad/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Imran135ahmad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Imran135ahmad/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Imran135ahmad/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Imran135ahmad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Imran135ahmad/leetcode/tree/master/0905-sort-array-by-parity) |
