@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Imran135ahmad/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Imran135ahmad/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Imran135ahmad/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Imran135ahmad/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
