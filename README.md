@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Imran135ahmad/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Imran135ahmad/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Pigeonhole Principle
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Imran135ahmad/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Imran135ahmad/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
 | [1108-defanging-an-ip-address](https://github.com/Imran135ahmad/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Imran135ahmad/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2490-circular-sentence](https://github.com/Imran135ahmad/leetcode/tree/master/2490-circular-sentence) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
+| [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Imran135ahmad/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
