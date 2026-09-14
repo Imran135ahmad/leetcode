@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Imran135ahmad/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Imran135ahmad/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Imran135ahmad/leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Imran135ahmad/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Imran135ahmad/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2490-circular-sentence](https://github.com/Imran135ahmad/leetcode/tree/master/2490-circular-sentence) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Imran135ahmad/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
