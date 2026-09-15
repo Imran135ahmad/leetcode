@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Imran135ahmad/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Imran135ahmad/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Imran135ahmad/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Imran135ahmad/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Imran135ahmad/leetcode/tree/master/0415-add-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
