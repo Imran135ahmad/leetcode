@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Imran135ahmad/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Imran135ahmad/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Imran135ahmad/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Imran135ahmad/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Imran135ahmad/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Imran135ahmad/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Imran135ahmad/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Imran135ahmad/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Imran135ahmad/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Imran135ahmad/leetcode/tree/master/3871-count-commas-in-range-ii) |
