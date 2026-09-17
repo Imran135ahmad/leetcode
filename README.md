@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Imran135ahmad/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Imran135ahmad/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Imran135ahmad/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Imran135ahmad/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Imran135ahmad/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Imran135ahmad/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Imran135ahmad/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Imran135ahmad/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Imran135ahmad/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Imran135ahmad/leetcode/tree/master/3870-count-commas-in-range) |
