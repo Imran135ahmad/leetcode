@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Imran135ahmad/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Imran135ahmad/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Imran135ahmad/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Imran135ahmad/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Imran135ahmad/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Imran135ahmad/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Imran135ahmad/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Imran135ahmad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Imran135ahmad/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -251,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Imran135ahmad/leetcode/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
