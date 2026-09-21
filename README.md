@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Imran135ahmad/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Imran135ahmad/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Imran135ahmad/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Imran135ahmad/leetcode/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Imran135ahmad/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Imran135ahmad/leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Imran135ahmad/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Imran135ahmad/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Imran135ahmad/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/0509-fibonacci-number) |
