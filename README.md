@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Imran135ahmad/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Imran135ahmad/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Imran135ahmad/leetcode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Imran135ahmad/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Imran135ahmad/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Imran135ahmad/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Imran135ahmad/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Imran135ahmad/leetcode/tree/master/0796-rotate-string) |
 ## Quicksort
 |  |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Imran135ahmad/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Imran135ahmad/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
