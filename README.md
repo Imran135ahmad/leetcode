@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Imran135ahmad/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0052-n-queens-ii) |
 | [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Imran135ahmad/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
@@ -303,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Imran135ahmad/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
