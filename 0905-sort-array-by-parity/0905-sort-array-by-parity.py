@@ -8,6 +8,6 @@ class Solution:
                 nums[i]=nums[s]
                 nums[s]=temp
                 s+=1
-            i+=1
+            
         return nums
 
