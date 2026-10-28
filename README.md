@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Imran135ahmad/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Imran135ahmad/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Imran135ahmad/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Imran135ahmad/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Imran135ahmad/leetcode/tree/master/0724-find-pivot-index) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Imran135ahmad/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Imran135ahmad/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Imran135ahmad/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Imran135ahmad/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Imran135ahmad/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Imran135ahmad/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
 ## Algorithm X
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Imran135ahmad/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
