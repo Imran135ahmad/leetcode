@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Imran135ahmad/leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Imran135ahmad/leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Imran135ahmad/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Imran135ahmad/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2490-circular-sentence](https://github.com/Imran135ahmad/leetcode/tree/master/2490-circular-sentence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Imran135ahmad/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
