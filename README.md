@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Imran135ahmad/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Imran135ahmad/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Imran135ahmad/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Imran135ahmad/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Imran135ahmad/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Imran135ahmad/leetcode/tree/master/0367-valid-perfect-square) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Imran135ahmad/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Imran135ahmad/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Imran135ahmad/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Imran135ahmad/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Imran135ahmad/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Imran135ahmad/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Design
