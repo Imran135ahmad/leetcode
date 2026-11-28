@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Imran135ahmad/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Imran135ahmad/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Imran135ahmad/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Imran135ahmad/leetcode/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Imran135ahmad/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Imran135ahmad/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Imran135ahmad/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Imran135ahmad/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Imran135ahmad/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Imran135ahmad/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Imran135ahmad/leetcode/tree/master/0070-climbing-stairs) |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Imran135ahmad/leetcode/tree/master/0496-next-greater-element-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Imran135ahmad/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
